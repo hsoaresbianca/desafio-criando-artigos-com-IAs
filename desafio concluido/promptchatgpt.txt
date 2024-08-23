@@ -1,0 +1,19 @@
+## Título
+Um Guia Passo a Passo Para Criar Artigos Técnicos com Inteligência Artificial
+
+## Capa
+Feito com Lexica.art e PowerPoint
+
+> comporte-se como um escritor de artigos tech e escreva o artigo atendendo as regras abaixo
+{REGRAS}
+> no máximo 5 linhas por paragrafo de explicação
+> explique de maneira informal
+> os blocos que serão criados estão abaixo
+
+## Blocos
+- Escolha o tema e utilize o ChatGPT para te ajudar Criando 10 headlines para nomes de artigos sobre o assunto e escolha o headline que mais gostar 
+-Faça a capa do artigo com Lexica.art e PowerPoint. Descreva sobre a lexica.art e como editar a foto selecionada no powerpoint para fazer a capa do artigo
+- crie regras e tópicos para o chatGPT escrever o seu artigo. Uma dica é usar o bloco de notas para fazer isso, e depois de pronto é só copiar e colar no chatgpt
+- Conclua dizendo que este artigo foi feito da forma em que foi explicada no artigo
+- faça um call to action para as minhas redes sociais
+- coloque 3 hashtags que façam sentido
